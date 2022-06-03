@@ -10,14 +10,14 @@
      Classify stellar values with higher accuracy using filter values
      
    <h2> About Analysis </h2>
-  #Complete Data Preprocessing(NaN value, Outliers ...)     
-    #+ Three Scaling Methods    
-    #+ Linear Regression    
-    #+ K-Neighbors Classifier   
-    #+ Decision Tree Classifier    
-    #+ Random-Forest Classifier
-    #+ Ensemble Learning
-     #- Bagging Classifier
-     #- Adaboost Classifier
+  Complete Data Preprocessing(NaN value, Outliers ...)  <br/>    
+    * Three Scaling Methods    <br/> 
+    * Linear Regression    <br/> 
+    * K-Neighbors Classifier<br/>    
+    * Decision Tree Classifier   <br/>  
+    * Random-Forest Classifier<br/> 
+    * Ensemble Learning<br/> 
+     - Bagging Classifier<br/> 
+     - Adaboost Classifier<br/> 
      
     
